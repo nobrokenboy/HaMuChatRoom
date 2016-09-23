@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/dist/css/animate.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dist/css/iconfont.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dist/css/wap_common.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dist/img/header.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dist/img/slidenav.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/config.json" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
